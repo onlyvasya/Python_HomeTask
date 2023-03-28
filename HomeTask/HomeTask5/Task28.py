@@ -6,3 +6,6 @@ def my_summ(a,b):
 a= int(input("Ведите число а: "))
 b= int(input("Ведите число b: "))   
 print(my_summ(a,b))     
+
+
+
